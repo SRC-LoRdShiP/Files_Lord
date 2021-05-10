@@ -1,2 +1,4 @@
 # Files_Lord
-ملفات سورس ألسيـآدة
+# جميع حقوق السورس محفوظة للمطور صوفي
+# <p align="center" style="color:#cb3349" > [مــطــور ســورس](https://telegram.me/s00f4) <br>
+
